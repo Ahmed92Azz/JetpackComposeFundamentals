@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jetpack Compose Fundamentals</string>
+
+    <string name="text_field">This is Text Field</string>
+    <string name="out_lined_text_field">This is Out Lined Text Field</string>
+    <string name="my_button">This is a button</string>
+    <string name="my_fab">"This is a FAB"</string>
+
+
+</resources>
